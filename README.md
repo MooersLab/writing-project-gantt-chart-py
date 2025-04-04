@@ -18,13 +18,13 @@ The plan below is for one writing one manuscript.
 ## Instructions
  1. Edit the path to your Python binary.
  2. Install missing modules with pip.
- 3. Relabel the projects in the named tuple to customize.
- 4. Edit the start and end dates of each phase of a project in the named tuple to suit.
+ 3. Relabel the activities in the named tuple to customize.
+ 4. Edit the start and end dates of each activity of a writing project in the named tuple to suit.
  5. Add or remove categories of phases if desired.
  7. Change the colors to suit.
  8. Edit the title to suit.
  9. Run `chmod +x writingLogGnatt.py`.
- 10. Run the script: `./2writingLogGnatt.py`.
+ 10. Run the script: `./writingLogGnatt.py`.
  11. The resulting image will be displayed and written to a PNG file.
 
 
